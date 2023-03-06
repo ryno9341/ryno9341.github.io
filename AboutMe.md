@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Invecticus
-- 👀 I’m interested in Scripting websites, games, and ROBLOX studio Objects.
-- 🌱 I’m currently learning Javascript, C#, C++, HTML5, and LUA
-- 💞️ I’m looking to collaborate on nothing at the moment :)
-- 📫 How to reach me Create a discussion on my profile and i will answer it as best as i can.
+- 👀 I’m interested in scripting, and UI design
+- 🌱 I’m currently learning Javascript, CSS3, and HTML5
+- 💞️ I’m not looking collaborate at the moment.
+- 📫 How to reach me Create an issue on this repository and I will answer it.
 
 <!---
 Invecticus/AboutMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
