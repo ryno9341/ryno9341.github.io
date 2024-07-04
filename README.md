@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@Invecticus](https://github.com/Invecticus)
+- 👋 Hi, I’m [@Ryno](https://github.com/ryno9341)
 - 👀 I’m interested in scripting, and UI design
 - 🌱 I’m currently learning Javascript, CSS3, and HTML5
 - 💞️ I’m not looking collaborate at the moment.
